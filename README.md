@@ -1,2 +1,2 @@
 # small_python_projects
-For storing small-scale python projects
+Repository for storing small-scale python projects.
